@@ -4,3 +4,7 @@
 *.php
 *.config
 
+/dir1
+/dir2/*.html
+/di3/app.log
+/target/reports
