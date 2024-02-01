@@ -1,0 +1,6 @@
+*.log
+*.xml
+*.class 
+*.php
+*.config
+
